@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and technology
 - 🌱 I’m currently learning web-development
 - 💞️ I’m looking to collaborate on Sony
-- 📫 How to reach me : You can reach me by my number, my google , facebook , telegram account.
+- 📫 How to reach me : You can reach me by my number, my gmail , facebook , telegram amd twitter account.
 The end!
 
 <!---
